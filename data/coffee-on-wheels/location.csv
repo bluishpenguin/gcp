@@ -1,0 +1,51 @@
+location_id,company_id,location_name,location_type,city_id
+1,1,CitySips Roaming Cafe,Mobile,1
+41,1,Urban Uplifter,Mobile,1
+42,2,Frisco Fresh Brews,Mobile,1
+12,2,Street Sips,Mobile,1
+14,4,CityBeans Roam-uccino,Mobile,1
+44,4,Coffee Cart Connection,Mobile,1
+25,5,Empire Espresso Explorer,Mobile,1
+35,5,MiaMug Mobility,Mobile,1
+45,5,Empire City Espresso Explorer,Mobile,1
+16,6,Gotham Grind on Wheels,Mobile,1
+37,7,CitySips Street Surfer,Mobile,1
+48,8,CityLife Latte Lorry,Mobile,1
+21,1,Fog City Fueler,Mobile,2
+22,2,Metro Mugs,Mobile,2
+2,2,JavaJourney Express,Mobile,2
+13,3,MiaMornings Mobile,Mobile,2
+3,3,UrbanCaffeine Cruiser,Mobile,2
+43,3,Magic Mugs,Mobile,2
+24,4,Sunny Side Sips Shuttle,Mobile,2
+36,6,Metropolitan Mochaccino,Mobile,2
+7,7,Big Apple Brew Bus,Mobile,2
+18,8,Mia Mochaccino Mobile,Mobile,2
+28,8,Urban Sipper's Shuttle,Mobile,2
+29,9,Nomadic Nectar,Mobile,2
+20,10,Transit Brew Buggy,Mobile,2
+11,1,Nectar Nomad,Mobile,3
+32,2,Cafe Cruiser Central,Mobile,3
+23,3,Espresso Express,Mobile,3
+33,3,Neighborhood Nectar,Mobile,3
+34,4,Frisco Fuel on Wheels,Mobile,3
+4,4,CafeWheels,Mobile,3
+15,5,Sunrise City Sipper,Mobile,3
+19,9,Cityscape Sip Stop,Mobile,3
+49,9,Cityscape Sipper Shuttle,Mobile,3
+9,9,Magic City Mocha Mobile,Mobile,3
+10,10,Metropolis Mug Mover,Mobile,3
+40,10,City Roast Cruiser,Mobile,3
+31,1,Sunny State Sipster,Mobile,4
+5,5,Golden Gate Grind Mobile,Mobile,4
+6,6,Sunshine Sips on Wheels,Mobile,4
+26,6,SF Sidewalk Sipper,Mobile,4
+46,6,Golden Glow Grind Rover,Mobile,4
+27,7,Beachside Brew Bounder,Mobile,4
+47,7,Sun-Kissed Sip & Go,Mobile,4
+17,7,Bay Area Bean Bus,Mobile,4
+8,8,Bay Brew Hauler,Mobile,4
+38,8,Golden Gate Gourmet Glide,Mobile,4
+39,9,Beach Breeze Brew Bus,Mobile,4
+50,10,Golden Grind Getter,Mobile,4
+30,10,Golden Bridge Brewmobile,Mobile,4

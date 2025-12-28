@@ -1,0 +1,217 @@
+menu_id,company_id,item_name,item_price,item_description,item_size
+28,1,Java Jolt,2.99,A bold and invigorating coffee blend for those who need a quick pick-me-up.,Small
+30,1,Java Jolt,3.99,A bold and invigorating coffee blend for those who need a quick pick-me-up.,Large
+29,1,Java Jolt,3.49,A bold and invigorating coffee blend for those who need a quick pick-me-up.,Medium
+101,1,RoboRoast,3.99,"A bold and flavorful blend of coffee beans, roasted to perfection.",Medium
+102,1,RoboRoast,4.99,"A bold and flavorful blend of coffee beans, roasted to perfection.",Large
+100,1,RoboRoast,2.99,"A bold and flavorful blend of coffee beans, roasted to perfection.",Small
+179,1,Bean Bagel,2.99,A bagel made with coffee beans.,n/a
+60,1,Latte Loaf,4.99,Sweet bread infused with espresso and topped with a vanilla glaze.,n/a
+33,1,Mocha Mist,4.49,A rich and decadent coffee blend with hints of chocolate and steamed milk.,Large
+32,1,Mocha Mist,3.99,A rich and decadent coffee blend with hints of chocolate and steamed milk.,Medium
+31,1,Mocha Mist,3.49,A rich and decadent coffee blend with hints of chocolate and steamed milk.,Small
+192,1,Donut Dream,3.5,"A light and fluffy donut, topped with a sweet glaze.",n/a
+67,1,Mocha Magic,2.5,"A rich and decadent blend of chocolate and coffee, roasted to perfection and brewed to a smooth and creamy cup.",Small
+68,1,Mocha Magic,3.5,"A rich and decadent blend of chocolate and coffee, roasted to perfection and brewed to a smooth and creamy cup.",Medium
+69,1,Mocha Magic,4.5,"A rich and decadent blend of chocolate and coffee, roasted to perfection and brewed to a smooth and creamy cup.",Large
+103,1,Mocha Moose,2.99,"A rich and creamy blend of chocolate and coffee, topped with whipped cream.",Small
+105,1,Mocha Moose,4.99,"A rich and creamy blend of chocolate and coffee, topped with whipped cream.",Large
+104,1,Mocha Moose,3.99,"A rich and creamy blend of chocolate and coffee, topped with whipped cream.",Medium
+97,1,Coffee Comet,2.99,"A smooth and rich blend of coffee beans, roasted to perfection.",Small
+98,1,Coffee Comet,3.99,"A smooth and rich blend of coffee beans, roasted to perfection.",Medium
+99,1,Coffee Comet,4.99,"A smooth and rich blend of coffee beans, roasted to perfection.",Large
+135,1,Coffee Dream,4.99,"A rich and creamy blend of coffee, milk, and chocolate.",Large
+134,1,Coffee Dream,3.99,"A rich and creamy blend of coffee, milk, and chocolate.",Medium
+133,1,Coffee Dream,2.99,"A rich and creamy blend of coffee, milk, and chocolate.",Small
+40,1,Crema Splash,4.25,A classic espresso with a creamy splash of steamed milk.,Small
+42,1,Crema Splash,6.75,A classic espresso with a creamy splash of steamed milk.,Large
+41,1,Crema Splash,5.75,A classic espresso with a creamy splash of steamed milk.,Medium
+54,1,Java Journey,6.99,Java Journey - Large,Large
+52,1,Java Journey,4.99,Java Journey - Small,Small
+53,1,Java Journey,5.99,Java Journey - Medium,Medium
+1,1,Mocha Marvel,3.99,A sweet and creamy combination of chocolate and coffee.,Small
+2,1,Mocha Marvel,4.99,A sweet and creamy combination of chocolate and coffee.,Medium
+3,1,Mocha Marvel,5.99,A sweet and creamy combination of chocolate and coffee.,Large
+129,1,Mocha Melody,3.99,"Mocha Melody is a rich and decadent chocolate drink made with espresso, steamed milk, and chocolate syrup. It is topped with a dollop of whipped cream and a dusting of cocoa powder.",Large
+128,1,Mocha Melody,3.49,"Mocha Melody is a rich and decadent chocolate drink made with espresso, steamed milk, and chocolate syrup. It is topped with a dollop of whipped cream and a dusting of cocoa powder.",Medium
+163,1,Mocha Melody,3.99,"A decadent coffee drink made with espresso, chocolate syrup, and steamed milk.",Small
+127,1,Mocha Melody,2.99,"Mocha Melody is a rich and decadent chocolate drink made with espresso, steamed milk, and chocolate syrup. It is topped with a dollop of whipped cream and a dusting of cocoa powder.",Small
+165,1,Mocha Melody,4.99,"A decadent coffee drink made with espresso, chocolate syrup, and steamed milk.",Large
+164,1,Mocha Melody,4.49,"A decadent coffee drink made with espresso, chocolate syrup, and steamed milk.",Medium
+108,1,Mocha Mousse,4.99,Our Mocha Mousse is a light and fluffy mousse made with rich chocolate and coffee. It is the perfect dessert for any occasion.,n/a
+119,1,Beanish Bagel,2.99,A toasted bagel topped with cream cheese and a sprinkle of poppy seeds.,n/a
+38,1,Coffee Nebula,6.75,This rich blend of coffee and dark chocolate will leave you wanting more.,Medium
+39,1,Coffee Nebula,7.95,This rich blend of coffee and dark chocolate will leave you wanting more.,Large
+37,1,Coffee Nebula,5.25,This rich blend of coffee and dark chocolate will leave you wanting more.,Small
+182,1,Cosmic Coffee,3.49,"A rich and bold blend of coffee beans, roasted to perfection. Enjoy the smooth, chocolatey notes with a hint of caramel.",Medium
+181,1,Cosmic Coffee,2.99,"A rich and bold blend of coffee beans, roasted to perfection. Enjoy the smooth, chocolatey notes with a hint of caramel.",Small
+183,1,Cosmic Coffee,3.99,"A rich and bold blend of coffee beans, roasted to perfection. Enjoy the smooth, chocolatey notes with a hint of caramel.",Large
+5,1,Espresso Yeti,3.99,A bold and intense shot of espresso.,Medium
+6,1,Espresso Yeti,4.99,A bold and intense shot of espresso.,Large
+4,1,Espresso Yeti,2.99,A bold and intense shot of espresso.,Small
+198,1,Midnight Brew,4.99,"A bold, robust coffee with a hint of smokiness.",Large
+197,1,Midnight Brew,3.99,"A bold, robust coffee with a hint of smokiness.",Medium
+196,1,Midnight Brew,2.99,"A bold, robust coffee with a hint of smokiness.",Small
+150,1,Mocha Blossom,3.49,"This chocolatey drink is made with espresso, steamed milk, and chocolate syrup.",Large
+149,1,Mocha Blossom,2.99,"This chocolatey drink is made with espresso, steamed milk, and chocolate syrup.",Medium
+148,1,Mocha Blossom,2.49,"This chocolatey drink is made with espresso, steamed milk, and chocolate syrup.",Small
+12,1,Biscotti Boost,2.5,A crunchy and flavorful biscotti with a hint of espresso.,n/a
+80,1,Caramel Clouds,4.99,A sweet and decadent treat that is sure to satisfy your sweet tooth.,Medium
+81,1,Caramel Clouds,5.99,A sweet and decadent treat that is sure to satisfy your sweet tooth.,Large
+79,1,Caramel Clouds,3.99,A sweet and decadent treat that is sure to satisfy your sweet tooth.,Small
+27,1,Coffee Cascade,3.99,A refreshing coffee blend with hints of chocolate and caramel.,Large
+25,1,Coffee Cascade,2.99,A refreshing coffee blend with hints of chocolate and caramel.,Small
+26,1,Coffee Cascade,3.49,A refreshing coffee blend with hints of chocolate and caramel.,Medium
+63,1,Coffee Delight,4.5,"A smooth and rich blend of coffee beans, roasted to perfection and brewed to a perfect cup.",Large
+61,1,Coffee Delight,2.5,"A smooth and rich blend of coffee beans, roasted to perfection and brewed to a perfect cup.",Small
+62,1,Coffee Delight,3.5,"A smooth and rich blend of coffee beans, roasted to perfection and brewed to a perfect cup.",Medium
+110,1,Coffee Embrace,4.99,"A smooth and creamy blend of coffee beans, roasted to perfection and brewed fresh.",Medium
+109,1,Coffee Embrace,3.99,"A smooth and creamy blend of coffee beans, roasted to perfection and brewed fresh.",Small
+111,1,Coffee Embrace,5.99,"A smooth and creamy blend of coffee beans, roasted to perfection and brewed fresh.",Large
+170,1,Coffee Nirvana,3.99,"A blend of dark roast coffee and steamed milk, topped with whipped cream and a sprinkle of cinnamon.",Medium
+171,1,Coffee Nirvana,4.99,"A blend of dark roast coffee and steamed milk, topped with whipped cream and a sprinkle of cinnamon.",Large
+169,1,Coffee Nirvana,2.99,"A blend of dark roast coffee and steamed milk, topped with whipped cream and a sprinkle of cinnamon.",Small
+201,1,Espresso Magic,4.99,"A rich, intense espresso with a creamy foam.",Large
+200,1,Espresso Magic,3.99,"A rich, intense espresso with a creamy foam.",Medium
+199,1,Espresso Magic,2.99,"A rich, intense espresso with a creamy foam.",Small
+206,1,Espresso Swirl,3.49,"A blend of espresso, milk, and caramel syrup.",Medium
+207,1,Espresso Swirl,3.99,"A blend of espresso, milk, and caramel syrup.",Large
+205,1,Espresso Swirl,2.99,"A blend of espresso, milk, and caramel syrup.",Small
+74,1,Hazelnut Haiku,4.99,A delightful blend of nutty flavors and a hint of sweetness that will surely satisfy your taste buds.,Medium
+73,1,Hazelnut Haiku,3.99,A delightful blend of nutty flavors and a hint of sweetness that will surely satisfy your taste buds.,Small
+75,1,Hazelnut Haiku,5.99,A delightful blend of nutty flavors and a hint of sweetness that will surely satisfy your taste buds.,Large
+93,1,Midnight Mocha,4.99,A rich and decadent mocha with a hint of chocolate.,Large
+92,1,Midnight Mocha,4.49,A rich and decadent mocha with a hint of chocolate.,Medium
+91,1,Midnight Mocha,3.99,A rich and decadent mocha with a hint of chocolate.,Small
+126,1,Tiramisu Twist,4.49,"Tiramisu Twist is a delightful dessert drink made with coffee, milk, and a hint of chocolate. It is topped with a layer of whipped cream and a dusting of cocoa powder.",Large
+125,1,Tiramisu Twist,3.99,"Tiramisu Twist is a delightful dessert drink made with coffee, milk, and a hint of chocolate. It is topped with a layer of whipped cream and a dusting of cocoa powder.",Medium
+124,1,Tiramisu Twist,3.49,"Tiramisu Twist is a delightful dessert drink made with coffee, milk, and a hint of chocolate. It is topped with a layer of whipped cream and a dusting of cocoa powder.",Small
+51,1,Coffee Carnival,6.99,Coffee Carnival - Large,Large
+49,1,Coffee Carnival,4.99,Coffee Carnival - Small,Small
+50,1,Coffee Carnival,5.99,Coffee Carnival - Medium,Medium
+122,1,Coffee Rhapsody,2.49,"Coffee Rhapsody is a smooth and creamy coffee drink made with a shot of espresso, steamed milk, and frothed milk, topped with a dusting of cocoa powder.",Medium
+121,1,Coffee Rhapsody,1.99,"Coffee Rhapsody is a smooth and creamy coffee drink made with a shot of espresso, steamed milk, and frothed milk, topped with a dusting of cocoa powder.",Small
+123,1,Coffee Rhapsody,2.99,"Coffee Rhapsody is a smooth and creamy coffee drink made with a shot of espresso, steamed milk, and frothed milk, topped with a dusting of cocoa powder.",Large
+85,1,Dark Woods Brew,2.49,"A dark roasted coffee with a rich, bold flavor.",Small
+86,1,Dark Woods Brew,2.99,"A dark roasted coffee with a rich, bold flavor.",Medium
+87,1,Dark Woods Brew,3.49,"A dark roasted coffee with a rich, bold flavor.",Large
+146,1,Espresso Clouds,2.49,"This espresso drink is made with steamed milk, espresso, and a hint of vanilla.",Medium
+147,1,Espresso Clouds,2.99,"This espresso drink is made with steamed milk, espresso, and a hint of vanilla.",Large
+145,1,Espresso Clouds,1.99,"This espresso drink is made with steamed milk, espresso, and a hint of vanilla.",Small
+18,1,Espresso Elixir,5.49,"A shot of espresso, steamed milk, and a touch of caramel syrup, topped with whipped cream.",Large
+17,1,Espresso Elixir,4.49,"A shot of espresso, steamed milk, and a touch of caramel syrup, topped with whipped cream.",Medium
+16,1,Espresso Elixir,3.49,"A shot of espresso, steamed milk, and a touch of caramel syrup, topped with whipped cream.",Small
+186,1,Hazelnut Heaven,3.99,"A sweet and nutty treat, made with real hazelnut syrup. Enjoy the rich, creamy flavor with a hint of vanilla.",Large
+185,1,Hazelnut Heaven,3.49,"A sweet and nutty treat, made with real hazelnut syrup. Enjoy the rich, creamy flavor with a hint of vanilla.",Medium
+184,1,Hazelnut Heaven,2.99,"A sweet and nutty treat, made with real hazelnut syrup. Enjoy the rich, creamy flavor with a hint of vanilla.",Small
+90,1,Honey Bee Latte,4.49,A sweet and creamy latte with a hint of honey.,Large
+88,1,Honey Bee Latte,3.49,A sweet and creamy latte with a hint of honey.,Small
+89,1,Honey Bee Latte,3.99,A sweet and creamy latte with a hint of honey.,Medium
+58,1,Mocha Munchkins,2.99,Espresso-infused donut holes rolled in powdered sugar and drizzled with chocolate.,n/a
+157,1,Barista’s Brew,2.99,A classic coffee drink made with freshly brewed coffee and steamed milk.,Small
+159,1,Barista’s Brew,3.99,A classic coffee drink made with freshly brewed coffee and steamed milk.,Large
+158,1,Barista’s Brew,3.49,A classic coffee drink made with freshly brewed coffee and steamed milk.,Medium
+57,1,Brewhaha Bonanza,6.99,Brewhaha Bonanza - Large,Large
+56,1,Brewhaha Bonanza,5.99,Brewhaha Bonanza - Medium,Medium
+55,1,Brewhaha Bonanza,4.99,Brewhaha Bonanza - Small,Small
+20,1,Cappuccino Dream,5.29,"A cappuccino made with steamed milk, espresso, and a sprinkle of cocoa powder.",Medium
+19,1,Cappuccino Dream,4.29,"A cappuccino made with steamed milk, espresso, and a sprinkle of cocoa powder.",Small
+21,1,Cappuccino Dream,6.29,"A cappuccino made with steamed milk, espresso, and a sprinkle of cocoa powder.",Large
+117,1,Caramel Symphony,5.99,"A sweet and decadent caramel latte, made with the finest coffee beans, steamed milk, and caramel sauce.",Large
+115,1,Caramel Symphony,3.99,"A sweet and decadent caramel latte, made with the finest coffee beans, steamed milk, and caramel sauce.",Small
+116,1,Caramel Symphony,4.99,"A sweet and decadent caramel latte, made with the finest coffee beans, steamed milk, and caramel sauce.",Medium
+77,1,Chai Tea Delight,4.99,A warm and comforting blend of spices and black tea that will leave you feeling relaxed and refreshed.,Medium
+76,1,Chai Tea Delight,3.99,A warm and comforting blend of spices and black tea that will leave you feeling relaxed and refreshed.,Small
+78,1,Chai Tea Delight,5.99,A warm and comforting blend of spices and black tea that will leave you feeling relaxed and refreshed.,Large
+13,1,Coffee Conundrum,2.99,"A rich and bold blend of coffee beans, roasted to perfection and brewed fresh for a smooth, satisfying cup.",Small
+14,1,Coffee Conundrum,3.99,"A rich and bold blend of coffee beans, roasted to perfection and brewed fresh for a smooth, satisfying cup.",Medium
+15,1,Coffee Conundrum,4.99,"A rich and bold blend of coffee beans, roasted to perfection and brewed fresh for a smooth, satisfying cup.",Large
+155,1,Espresso Brownie,3.99,A rich and decadent brownie made with espresso.,n/a
+106,1,Espresso Delight,3.99,Treat yourself to a rich and decadent espresso drink that will awaken your senses and leave you feeling refreshed.,n/a
+112,1,Espresso Fantasy,3.99,"A rich and flavorful espresso, made with the finest coffee beans and steamed milk.",Small
+114,1,Espresso Fantasy,5.99,"A rich and flavorful espresso, made with the finest coffee beans and steamed milk.",Large
+113,1,Espresso Fantasy,4.99,"A rich and flavorful espresso, made with the finest coffee beans and steamed milk.",Medium
+43,1,Hazelnut Horizon,4.95,A sweet and nutty latte with a hint of hazelnut.,Small
+44,1,Hazelnut Horizon,6.25,A sweet and nutty latte with a hint of hazelnut.,Medium
+45,1,Hazelnut Horizon,7.25,A sweet and nutty latte with a hint of hazelnut.,Large
+203,1,Macchiato Muffin,4.99,"A rich, robust espresso shot layered with steamed milk, topped with a dollop of foam and a sprinkle of cinnamon. Served with a warm, fluffy muffin.",n/a
+156,1,Mocha Magic Cake,5.99,A moist and fluffy cake with a mocha filling.,n/a
+167,1,Cafe Latte Crepes,7.99,A light and fluffy crepe filled with cafe latte mousse and topped with whipped cream.,n/a
+162,1,Caffeinated Crush,4.49,"A refreshing coffee drink made with cold brew, milk, and a hint of vanilla syrup.",Large
+161,1,Caffeinated Crush,3.99,"A refreshing coffee drink made with cold brew, milk, and a hint of vanilla syrup.",Medium
+160,1,Caffeinated Crush,3.49,"A refreshing coffee drink made with cold brew, milk, and a hint of vanilla syrup.",Small
+64,1,Caffeinated Dream,2.5,"A bold and energizing blend of coffee beans, roasted to perfection and brewed to a strong and flavorful cup.",Small
+65,1,Caffeinated Dream,3.5,"A bold and energizing blend of coffee beans, roasted to perfection and brewed to a strong and flavorful cup.",Medium
+66,1,Caffeinated Dream,4.5,"A bold and energizing blend of coffee beans, roasted to perfection and brewed to a strong and flavorful cup.",Large
+22,1,Coffee Cake Cloud,3.99,Sweet and fluffy coffee cake with a hint of vanilla. Topped with roasted coffee beans.,n/a
+139,1,Hazelnut Symphony,3.79,"A nutty and flavorful blend of coffee, milk, and hazelnut.",Small
+140,1,Hazelnut Symphony,4.79,"A nutty and flavorful blend of coffee, milk, and hazelnut.",Medium
+141,1,Hazelnut Symphony,5.79,"A nutty and flavorful blend of coffee, milk, and hazelnut.",Large
+173,1,Midnight Espresso,3.99,"A shot of espresso with steamed milk, topped with a layer of foam.",Medium
+174,1,Midnight Espresso,4.99,"A shot of espresso with steamed milk, topped with a layer of foam.",Large
+172,1,Midnight Espresso,2.99,"A shot of espresso with steamed milk, topped with a layer of foam.",Small
+7,1,Affogato Avalanche,4.99,A scoop of vanilla ice cream topped with a shot of espresso.,Small
+8,1,Affogato Avalanche,5.99,A scoop of vanilla ice cream topped with a shot of espresso.,Medium
+9,1,Affogato Avalanche,6.99,A scoop of vanilla ice cream topped with a shot of espresso.,Large
+143,1,Cappuccino Cupcake,2.99,A moist and fluffy cupcake flavored with cappuccino and topped with a whipped cream frosting.,n/a
+59,1,Cappuccino Custard,3.49,Creamy custard layered with espresso and whipped cream.,n/a
+144,1,Coffee Bean Cookie,1.99,A chewy and chocolatey cookie made with coffee beans and topped with a chocolate chip.,n/a
+180,1,Coffee Buttercream,3.49,A buttercream frosting made with coffee.,n/a
+130,1,Coffee Cake Donuts,2.99,"Freshly baked coffee cake donuts, topped with a sweet glaze. Perfect for breakfast or a snack.",n/a
+34,1,Coffee Crunch Cake,4.99,A delightful coffee-flavored cake with a crunchy topping.,n/a
+36,1,Mochaccino Muffins,2.99,A delicious muffin infused with mocha and chocolate chips.,n/a
+188,1,Sweet Dreams Latte,3.49,"A creamy and decadent latte, made with real chocolate syrup. Enjoy the rich, smooth flavor with a hint of vanilla.",Medium
+187,1,Sweet Dreams Latte,2.99,"A creamy and decadent latte, made with real chocolate syrup. Enjoy the rich, smooth flavor with a hint of vanilla.",Small
+189,1,Sweet Dreams Latte,3.99,"A creamy and decadent latte, made with real chocolate syrup. Enjoy the rich, smooth flavor with a hint of vanilla.",Large
+137,1,Barista’s Delight,4.49,"A smooth and velvety blend of espresso, steamed milk, and caramel.",Medium
+138,1,Barista’s Delight,5.49,"A smooth and velvety blend of espresso, steamed milk, and caramel.",Large
+136,1,Barista’s Delight,3.49,"A smooth and velvety blend of espresso, steamed milk, and caramel.",Small
+152,1,Cafe au Lait Breeze,2.49,This coffee drink is made with steamed milk and espresso.,Medium
+153,1,Cafe au Lait Breeze,2.99,This coffee drink is made with steamed milk and espresso.,Large
+151,1,Cafe au Lait Breeze,1.99,This coffee drink is made with steamed milk and espresso.,Small
+177,1,Cocoa Caramel Crush,4.99,"A blend of chocolate and caramel syrup, steamed milk, and whipped cream.",Large
+175,1,Cocoa Caramel Crush,2.99,"A blend of chocolate and caramel syrup, steamed milk, and whipped cream.",Small
+176,1,Cocoa Caramel Crush,3.99,"A blend of chocolate and caramel syrup, steamed milk, and whipped cream.",Medium
+48,1,Coffee Bean Brittle,2.75,Crispy and sweet coffee bean brittle.,n/a
+191,1,Coffee Break Cookie,2.25,"A classic chocolate chip cookie, perfect for a quick snack or a sweet treat.",n/a
+214,1,Coffee Cake Muffins,2.99,Buttery and moist coffee cake muffins topped with sweet crumbles.,n/a
+178,1,Coffee Crumble Cake,3.99,A delicious coffee cake with a crumbly topping.,n/a
+35,1,Cookie Jar Symphony,3.99,"A medley of chocolate chip, oatmeal raisin, and peanut butter cookies.",n/a
+46,1,Espresso Cheesecake,7.25,A creamy cheesecake. Swirls of espresso pudding nestle between layers of thick vanilla cheesecake.,n/a
+190,1,Wakey Wakey Waffles,7.5,"Fluffy, golden waffles with your choice of butter, syrup, or fruit.",n/a
+131,1,Caf-Pow! Protein Bar,3.49,"A delicious and nutritious protein bar, perfect for a quick snack or post-workout refuel. Made with all-natural ingredients, Caf-Pow! is packed with protein, fiber, and vitamins.",n/a
+71,1,Caramel Latte Crunch,3.99,"A decadent combination of caramel, latte, and crunch. Sure to satisfy your sweet tooth.",n/a
+10,1,Coffee Clutch Cookie,3.25,A soft and chewy cookie with a rich coffee flavor.,n/a
+193,1,Coffee Constellation,2.99,"A smooth, dark roast coffee with notes of chocolate and caramel.",Small
+195,1,Coffee Constellation,4.99,"A smooth, dark roast coffee with notes of chocolate and caramel.",Large
+194,1,Coffee Constellation,3.99,"A smooth, dark roast coffee with notes of chocolate and caramel.",Medium
+83,1,Cup O'' Joe Sandwich,5.99,"A hearty sandwich made with ham, bacon, and cheese, served on a toasted bagel.",n/a
+216,1,Mocha Swirl Pancakes,4.99,Fluffy pancakes swirled with chocolate mocha and topped with whipped cream.,n/a
+11,1,Café au Lait Crumble,3.75,A sweet and creamy coffee cake with a crumbly topping.,n/a
+154,1,Coffee Cake Croissant,4.99,A delicious croissant filled with coffee cake.,n/a
+47,1,Caramel Latte Cupcakes,5.5,Decadent caramel latte cupcakes topped with a swirl of caramel icing.,n/a
+70,1,Coffee Cake Cloud Nine,4.99,A fluffy cloud of coffee and cake. The perfect way to start your day.,n/a
+142,1,Coffee Doughnut Crunch,3.99,A delicious doughnut made with coffee and sprinkled with chocolate chips.,n/a
+107,1,Coffee and Cream Scone,2.99,"A classic coffee shop treat, our Coffee and Cream Scone is made with fresh, locally sourced coffee and creamy butter.",n/a
+82,1,Java Jeweled Croissant,3.99,A delicious croissant with a sweet glaze and a sprinkle of chopped nuts.,n/a
+24,1,Mocha Madness Meltdown,5.99,"Warm and gooey chocolate croissant filled with a creamy mocha filling, served with whipped cream and a sprinkle of cocoa powder.",n/a
+120,1,Caffeinated Carrot Cake,4.99,A moist and flavorful carrot cake made with coffee and topped with a cream cheese frosting.,n/a
+23,1,Café Croissant Crusade,4.99,"Crispy and buttery croissants filled with a rich coffee-chocolate ganache, sprinkled with roasted nuts.",n/a
+204,1,Cappuccino Chiffon Cake,7.99,A light and airy chiffon cake infused with the rich flavor of cappuccino. Served with a dollop of whipped cream and a dusting of cocoa powder.,n/a
+72,1,Americano Almond Delight,2.99,A smooth and nutty blend of americano and almond. The perfect drink for any time of day.,n/a
+202,1,Cafe con Leche Croissant,6.5,"A warm, foamy cup of milk with a hint of coffee, paired with a flaky, buttery croissant. The perfect way to start your day.",n/a
+212,1,Clouds of Coffee Delight,3.49,"A blend of coffee, milk, and vanilla syrup.",Medium
+213,1,Clouds of Coffee Delight,3.99,"A blend of coffee, milk, and vanilla syrup.",Large
+211,1,Clouds of Coffee Delight,2.99,"A blend of coffee, milk, and vanilla syrup.",Small
+166,1,Coffee Cake Caramel Corn,4.99,A sweet and crunchy snack made with coffee cake pieces and caramel sauce.,n/a
+210,1,Butterscotch Caramel Buzz,3.99,"A blend of coffee, milk, butterscotch syrup, and caramel syrup.",Large
+209,1,Butterscotch Caramel Buzz,3.49,"A blend of coffee, milk, butterscotch syrup, and caramel syrup.",Medium
+208,1,Butterscotch Caramel Buzz,2.99,"A blend of coffee, milk, butterscotch syrup, and caramel syrup.",Small
+118,1,Espresso Explosion Cookie,3.99,A soft and chewy cookie packed with chocolate chips and espresso powder.,n/a
+95,1,Cappuccino Crème Brûlée,7.99,Our Cappuccino Crème Brûlaye combines the flavors of cappuccino and crème brûlaye into a single dessert. This decadent treat features a creamy cappuccino custard topped with a caramelized sugar crust. Served with a side of fresh berries.,n/a
+84,1,Coffee Bean Butter Cookies,2.99,A classic cookie made with coffee beans and butter.,n/a
+215,1,Espresso Glazed Croissants,3.99,Flaky and buttery croissants topped with a rich espresso glaze.,n/a
+132,1,Espresso Shortbread Cookies,2.79,Buttery shortbread cookies infused with the rich flavor of espresso. Perfect for a sweet treat or a gift.,n/a
+94,1,Coffee-infused Avocado Toast,12.99,"Our Coffee-infused Avocado Toast is an elevated take on classic avocado toast, featuring toasted sourdough bread topped with a creamy spread made from coffee-infused avocado, sprinkled with feta cheese and fresh herbs. Served with a side of our signature coffee-infused vinaigrette.",n/a
+168,1,Espresso Infused Jelly Donuts,6.99,A rich and decadent donut infused with espresso and filled with a sweet jelly filling.,n/a
+96,1,Caramelatte Chocolate Chip Cookies,4.99,Our Caramelatte Chocolate Chip Cookies are a delicious treat that combines the flavors of caramel and chocolate. These cookies are made with a caramelatte-infused dough and loaded with chocolate chips. They are then baked to perfection and served warm.,n/a
